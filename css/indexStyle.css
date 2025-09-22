@@ -1,0 +1,10 @@
+header {
+    background-color: #097aeb;
+    padding: 20px;
+    text-align: center;
+}
+
+ul li{
+    display: inline;
+    margin-right: 20px;
+}
