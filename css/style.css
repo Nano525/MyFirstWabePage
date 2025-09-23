@@ -1,0 +1,28 @@
+header {
+    background-color: #343434;
+    padding: 20px;
+    text-align: center;
+}
+
+ul li{
+    color: white;
+    display: inline;
+    margin-right: 20px;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+.tituloH1{
+    color: blue;
+    text-align: center;
+}
+.tituloH2{
+    color: red;
+    text-align: center;
+}
+.tituloH3{
+    color: gold;
+    text-align: center;
+}
